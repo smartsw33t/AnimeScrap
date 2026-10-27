@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Anime Scrap</string>
+    <!--  Fragments  -->
+    <string name="title_trending">பிரபலமானவை</string>
+    <string name="title_latest">புதியவை</string>
+    <string name="title_favorite">விருப்பமானவை</string>
+    <string name="title_search">தேடுக</string>
+    <string name="anime_details_title">அனிமே விவரங்கள்</string>
+    <!--  Player  -->
+    <string name="play_button_text">இயக்குக</string>
+    <string name="prev_button_text">முன்னோக்கி</string>
+    <string name="next_button_text">பின்னோக்கி</string>
+    <string name="quality_btn_txt">அதுவாகவே</string>
+    <string name="rotate_display">திரையைச் சுழற்றுக</string>
+    <string name="display_scale">திரை அளவு</string>
+    <string name="unlock">பூட்டைத் திறக்குக</string>
+    <string name="zoom">பெரிதாக்குக</string>
+    <string name="stretched">நீட்டிக்கப்பட்டது</string>
+    <string name="height_fit">திரைக்கு ஏற்ப பொருத்துக</string>
+    <string name="_0_00">0:00</string>
+    <string name="timer_bar">நேரக் காட்டி</string>
+
+    <string name="favourite_button_text">விருப்பமானவை</string>
+    <string name="imageview_in_main">முதன்மைப் படக் காட்சி</string>
+
+    <string name="splash_c2_image">தொடக்க C2 படம்</string>
+
+    <string name="image_title">படத் தலைப்பு</string>
+    <string name="cover_of_anime">அனிமே முகப்புப் படம்</string>
+    <string name="synopsis_header_title">சுருக்கம்:</string>
+    <string name="not_started_yet">இன்னும் தொடங்கப்படவில்லை</string>
+    <string name="select_episode">பகுதியைத் தேர்வுசெய்க</string>
+    <string name="episode">பகுதி %1$s</string>
+    <string name="last_watched_format">கடைசியாகப் பார்த்தது: %1$s</string>
+    <string name="episode_text">%1$s - %2$s</string>
+    <string name="loading_episode">பகுதி ஏற்றப்படுகிறது</string>
+
+    <string name="back_to_home">மீண்டும் முகப்பிற்கு</string>
+
+
+    <!-- Preference Titles -->
+    <string name="settings">அமைப்புகள்</string>
+    <string name="mx_player_summary">உங்கள் சாதனத்தில் MX Player நிறுவப்பட்டிருந்தால் மட்டுமே இயங்கும்</string>
+    <string name="mx_player_title">MX Player-ஐப் பயன்படுத்துக</string>
+    <string name="external_player_off_summary">உள் இயக்கியைப் பயன்படுத்துகிறது</string>
+    <string name="external_player_on_summary">வெளிப்புற இயக்கியைப் பயன்படுத்துகிறது</string>
+    <string name="external_player_title">வெளிப்புற வீடியோ இயக்கியைப் பயன்படுத்துக</string>
+    <string name="dynamic_colors_disabled_summary">டைனமிக் வண்ணங்கள் முடக்கப்பட்டுள்ளன</string>
+    <string name="dynamic_colors_enabled_summary">டைனமிக் வண்ணங்கள் இயக்கப்பட்டுள்ளன</string>
+    <string name="dynamic_colors_title">டைனமிக் வண்ணங்களைப் பயன்படுத்துக</string>
+    <string name="source_cat_title">மூலம்</string>
+    <string name="source_list_pref_title">மூலத்தைத் தேர்வுசெய்க</string>
+    <string name="pip_disabled">படத்திற்குள் படம் (PiP) முடக்கப்பட்டது</string>
+    <string name="pip_enabled">படத்திற்குள் படம் (PiP) இயக்கப்பட்டது</string>
+    <string name="pip_title">PiP-ஐ இயக்குக</string>
+    <string name="theme_cat_title">தோற்றம்</string>
+    <string name="player_cat_title">இயக்கி</string>
+
+    <string name="seek_seconds_forward">+%d விநாடிகள்</string>
+    <string name="seek_seconds_backward">-%d விநாடிகள்</string>
+
+    <string name="anime_details_error_message">ஏதோ தவறு நடந்துவிட்டது, சேவையகத்துடன் இணைக்க முடியவில்லை. இணைய இணைப்பைச் சரிபார்க்கவும்</string>
+    <string name="no_favorites_text">உங்களுக்கு விருப்பமானவை இங்கே காட்டப்படும்</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">வணக்கம் வெற்றுக் கூறு</string>
+    <string name="player">இயக்கி</string>
+    <string name="dark_mode_pref_title">இருள் பயன்முறை</string>
+    <string name="update_available">புதிய பதிப்பு உள்ளது</string>
+    <string name="update_not_available">புதிய பதிப்பு எதுவும் இல்லை</string>
+    <string name="downloading_update">புதிய பதிப்பு பதிவிறக்கப்படுகிறது</string>
+    <string name="check_update_pref_summary">செயலியின் புதிய பதிப்பைச் சரிபார்க்கவும்</string>
+    <string name="check_update_pref">புதுப்பிப்புகளைச் சரிபார்க்கவும்</string>
+    <string name="sort">வரிசைப்படுத்துக</string>
+    <string name="video_cache_perf_title">வீடியோ தற்காலிகச் சேமிப்பை (Cache) இயக்குக</string>
+    <string name="video_cache_perf_summray_disabled">இயக்கியில் வீடியோ தற்காலிகச் சேமிப்பு முடக்கப்பட்டுள்ளது</string>
+    <string name="video_cache_perf_summray_enabled">இயக்கியில் வீடியோ தற்காலிகச் சேமிப்பு இயக்கப்பட்டுள்ளது</string>
+    <string name="auto_play_summary">தற்போதைய பகுதி முடிந்ததும் அடுத்த பகுதியை அதுவாகவே இயங்கச்செய்க</string>
+    <string name="auto_play_title">அடுத்த பகுதியைத் தானாக இயக்குக</string>
+
+</resources>
