@@ -1,0 +1,35 @@
+<resources>
+    <!-- Source Preference -->
+    <string-array name="sources_entries">
+        <item>யுகென்</item>
+        <item>ஸோரோ</item>
+        <item>ஆல்அனிமே</item>
+        <item>எனிமே</item>
+        <item>கிஸ்கேஹெச்</item>
+        <item>அனிமேபஹே</item>
+    </string-array>
+
+    <!-- Source Values (Backend keys preserved for programmatic functionality) -->
+    <string-array name="sources_values">
+        <item>yugen</item>
+        <item>zoro</item>
+        <item>allanime</item>
+        <item>enime</item>
+        <item>kiss_kh</item>
+        <item>animepahe</item>
+    </string-array>
+
+    <!-- Dark Mode Preference -->
+    <string-array name="dark_mode_entries">
+        <item>முடக்குக</item>
+        <item>இயக்குக</item>
+        <item>சாதன அமைப்பின்படி</item>
+    </string-array>
+
+    <!-- Dark Mode Values (Backend keys preserved for programmatic functionality) -->
+    <string-array name="dark_mode_values">
+        <item>off</item>
+        <item>on</item>
+        <item>follow_system</item>
+    </string-array>
+</resources>
